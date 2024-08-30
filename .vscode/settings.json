@@ -1,0 +1,7 @@
+{
+    "eslint.format.enable": true,
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+    "css.lint.unknownAtRules": "ignore", // Tailwind CSS 사용 시
+    "typescript.preferences.importModuleSpecifier": "non-relative", // tsconfig의 path alias 사용 시
+}
